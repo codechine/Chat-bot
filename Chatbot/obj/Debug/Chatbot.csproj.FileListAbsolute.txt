@@ -1,0 +1,63 @@
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\C#\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\23mic\Desktop\ŠKOLA\VT()\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.csprojAssemblyReference.cache
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hladik.michal7\Desktop\prg\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\23mic\Desktop\coding\C(hashtag)\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\23mic\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\VT(programování)\V4\Chatbot(OOP)\Chatbot\obj\Debug\Chatbot.pdb
