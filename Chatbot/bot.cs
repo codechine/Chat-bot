@@ -87,7 +87,7 @@ namespace Chatbot
         {
             //zavolá openweather API a sestáví odpověď jako informace o počasí
             HttpClient client = new HttpClient();
-            string API_key = "66343b8097680f4d1adf2211fe55ea31";
+            string API_key = "";
             string city_name = "Chomutov";
             string request = $"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}&lang=cz&units=metric";
             dynamic respond = JObject.Parse(await client.GetStringAsync(request));
@@ -101,7 +101,7 @@ namespace Chatbot
         {
             //zavolá NASA API pro json s informacemi o obrázku od NASA
             HttpClient client = new HttpClient();
-            return JObject.Parse(await client.GetStringAsync("https://api.nasa.gov/planetary/apod?api_key=7riBMnTRB2WyK9zFlELzHdgiZ6tVQrehCL2HWErl"));
+            return JObject.Parse(await client.GetStringAsync("https://api.nasa.gov/planetary/apod?api_key="));
         }
     }
 }
